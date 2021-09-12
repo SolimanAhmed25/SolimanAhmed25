@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SolimanAhmed25
+- 👀 I’m interested in AI,ML & Automotive
+- 🌱 I’m currently learning AI
